@@ -1,3 +1,6 @@
+## https://github.com/bast/somepackage
+## https://github.com/navdeep-G/samplemod
+
 def CalcBoardFeet(WidthInInches, ThicknesInInches, LengthInInches=0, LengthInFeet=0): 
 
     if LengthInInches > 0:  
