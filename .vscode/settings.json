@@ -1,8 +1,6 @@
-{
-    "python.testing.pytestArgs": [
-        "UnitTestingPractice"
-    ],
-    "python.testing.unittestEnabled": false,
-    "python.testing.nosetestsEnabled": false,
-    "python.testing.pytestEnabled": true
-}
+ {
+     "python.testing.unittestEnabled": false,
+     "python.testing.nosetestsEnabled": false,
+     "python.testing.pytestEnabled": true,
+     "python.pythonPath": "env\\Scripts\\python.exe"
+ }
